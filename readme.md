@@ -16,8 +16,8 @@ A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**
 - **CSS**: For styling and enhancing the visual appearance.
 - **JavaScript**: For game logic and interactivity.
 
-Game Logic
-Rock beats Scissors.
-Scissors beats Paper.
-Paper beats Rock.
-If both the player and the computer choose the same option, it results in a draw.
+## Game Logic
+- Rock beats Scissors.
+- Scissors beats Paper.
+- Paper beats Rock.
+- If both the player and the computer choose the same option, it results in a draw.
